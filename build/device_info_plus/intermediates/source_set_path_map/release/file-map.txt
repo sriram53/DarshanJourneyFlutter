@@ -1,0 +1,12 @@
+dev.fluttercommunity.plus.device_info.device_info_plus-jetified-window-java-1.0.0-beta04-0 C:\Users\arunm\.gradle\caches\transforms-3\48e981a0346d31a6e8dc703f93aac46b\transformed\jetified-window-java-1.0.0-beta04\res
+dev.fluttercommunity.plus.device_info.device_info_plus-core-1.6.0-1 C:\Users\arunm\.gradle\caches\transforms-3\61a3d0e0172c514700b9d130ee04201c\transformed\core-1.6.0\res
+dev.fluttercommunity.plus.device_info.device_info_plus-jetified-annotation-experimental-1.1.0-2 C:\Users\arunm\.gradle\caches\transforms-3\6afc9a3af6a66b6f30dbb8d5999c1736\transformed\jetified-annotation-experimental-1.1.0\res
+dev.fluttercommunity.plus.device_info.device_info_plus-jetified-window-1.0.0-beta04-3 C:\Users\arunm\.gradle\caches\transforms-3\862f900574f1ff85594dddb260956b71\transformed\jetified-window-1.0.0-beta04\res
+dev.fluttercommunity.plus.device_info.device_info_plus-main-4 C:\Users\arunm\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-9.1.2\android\src\main\res
+dev.fluttercommunity.plus.device_info.device_info_plus-release-5 C:\Users\arunm\AppData\Local\Pub\Cache\hosted\pub.dev\device_info_plus-9.1.2\android\src\release\res
+dev.fluttercommunity.plus.device_info.device_info_plus-pngs-6 D:\Flutter\darshan_journey\build\device_info_plus\generated\res\pngs\release
+dev.fluttercommunity.plus.device_info.device_info_plus-resValues-7 D:\Flutter\darshan_journey\build\device_info_plus\generated\res\resValues\release
+dev.fluttercommunity.plus.device_info.device_info_plus-rs-8 D:\Flutter\darshan_journey\build\device_info_plus\generated\res\rs\release
+dev.fluttercommunity.plus.device_info.device_info_plus-mergeReleaseResources-9 D:\Flutter\darshan_journey\build\device_info_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.fluttercommunity.plus.device_info.device_info_plus-mergeReleaseResources-10 D:\Flutter\darshan_journey\build\device_info_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.fluttercommunity.plus.device_info.device_info_plus-merged_res-11 D:\Flutter\darshan_journey\build\device_info_plus\intermediates\merged_res\release
