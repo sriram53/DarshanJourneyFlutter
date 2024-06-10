@@ -1,4 +1,4 @@
-#Tue May 21 11:14:37 IST 2024
-base.0=D\:\\Flutter\\darshan_journey\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+#Fri May 17 14:47:16 IST 2024
+base.0=F\:\\darshan_journey_1\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

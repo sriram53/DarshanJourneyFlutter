@@ -4,17 +4,7 @@
             "outputFile": "com.ryanheise.audio_session-merged_res-13:/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\arunm\\.gradle\\caches\\transforms-3\\afe748b872577969c553c03462be1642\\transformed\\jetified-media2-session-1.2.1\\res\\values-en-rGB\\values-en-rGB.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,159,256,350,471",
-                        "endColumns": "103,96,93,120,128",
-                        "endOffsets": "154,251,345,466,595"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\arunm\\.gradle\\caches\\transforms-3\\61a3d0e0172c514700b9d130ee04201c\\transformed\\core-1.6.0\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "source": "C:\\Users\\Sriram\\.gradle\\caches\\transforms-3\\4e7f9690383d26d26133e30bd361248d\\transformed\\core-1.6.0\\res\\values-en-rGB\\values-en-rGB.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -28,6 +18,16 @@
                         "startOffsets": "600",
                         "endColumns": "100",
                         "endOffsets": "696"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sriram\\.gradle\\caches\\transforms-3\\4f7f9112af89c90abdf0dae649b9d935\\transformed\\jetified-media2-session-1.2.1\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,159,256,350,471",
+                        "endColumns": "103,96,93,120,128",
+                        "endOffsets": "154,251,345,466,595"
                     }
                 }
             ]
@@ -36,17 +36,7 @@
             "outputFile": "com.ryanheise.audio_session-mergeReleaseResources-11:/values-en-rGB/values-en-rGB.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\arunm\\.gradle\\caches\\transforms-3\\afe748b872577969c553c03462be1642\\transformed\\jetified-media2-session-1.2.1\\res\\values-en-rGB\\values-en-rGB.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "55,159,256,350,471",
-                        "endColumns": "103,96,93,120,128",
-                        "endOffsets": "154,251,345,466,595"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\arunm\\.gradle\\caches\\transforms-3\\61a3d0e0172c514700b9d130ee04201c\\transformed\\core-1.6.0\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "source": "C:\\Users\\Sriram\\.gradle\\caches\\transforms-3\\4e7f9690383d26d26133e30bd361248d\\transformed\\core-1.6.0\\res\\values-en-rGB\\values-en-rGB.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -60,6 +50,16 @@
                         "startOffsets": "600",
                         "endColumns": "100",
                         "endOffsets": "696"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sriram\\.gradle\\caches\\transforms-3\\4f7f9112af89c90abdf0dae649b9d935\\transformed\\jetified-media2-session-1.2.1\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,159,256,350,471",
+                        "endColumns": "103,96,93,120,128",
+                        "endOffsets": "154,251,345,466,595"
                     }
                 }
             ]

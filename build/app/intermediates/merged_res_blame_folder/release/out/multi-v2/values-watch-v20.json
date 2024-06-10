@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.darshan_journey.app-mergeReleaseResources-30:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.example.darshan_journey.app-mergeReleaseResources-29:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\arunm\\.gradle\\caches\\transforms-3\\75fd924f2ca0987f2b02e604e192d7d1\\transformed\\jetified-play-services-auth-21.0.0\\res\\values-watch-v20\\values.xml",
+                    "source": "C:\\Users\\Sriram\\.gradle\\caches\\transforms-3\\9d563dcc0a678eaabf9a89d024cfd41e\\transformed\\jetified-play-services-auth-21.0.0\\res\\values-watch-v20\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

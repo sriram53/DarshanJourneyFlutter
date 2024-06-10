@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.darshan_journey.app-mergeReleaseResources-30:/values-v24/values-v24.xml",
+            "outputFile": "com.example.darshan_journey.app-mergeReleaseResources-29:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\arunm\\.gradle\\caches\\transforms-3\\7237ff9b9069df6e6de2dad3e855c268\\transformed\\media-1.4.1\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Sriram\\.gradle\\caches\\transforms-3\\27fa4a5222be9cad2c40c3ec1168c359\\transformed\\media-1.4.1\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.darshan_journey.app-mergeReleaseResources-30:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.darshan_journey.app-mergeReleaseResources-29:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\Flutter\\darshan_journey\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "F:\\darshan_journey_1\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
