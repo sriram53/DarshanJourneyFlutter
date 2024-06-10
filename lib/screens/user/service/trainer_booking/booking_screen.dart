@@ -24,11 +24,12 @@ class BookingScreen extends StatelessWidget {
         iconTheme: const IconThemeData(
           color: Colors.black, // Change the color of the back arrow here
         ),
-        title: Text('Book ${trainer.name}',
-        style: TextStyle(
-          color:Colors.black,
-          fontWeight: FontWeight.bold
-        ),
+        title: Text(
+          'Book ${trainer.name}',
+          style: TextStyle(
+            color: Colors.black,
+            fontWeight: FontWeight.bold,
+          ),
         ),
       ),
       body: Padding(
@@ -36,13 +37,18 @@ class BookingScreen extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
-            Text('Booking Details',
-                style: Theme.of(context).textTheme.headline6),
+            Text(
+              'Booking Details',
+              style: Theme.of(context).textTheme.headlineSmall,
+            ),
             SizedBox(height: 20),
             Text('Trainer Name: ${trainer.name}'),
             Text('Specialty: ${trainer.specialty}'),
             SizedBox(height: 20),
-            Text('Experiences:', style: Theme.of(context).textTheme.subtitle1),
+            Text(
+              'Experiences:',
+              style: Theme.of(context).textTheme.titleMedium,
+            ),
             SizedBox(height: 10),
             Expanded(
               child: ListView.builder(
