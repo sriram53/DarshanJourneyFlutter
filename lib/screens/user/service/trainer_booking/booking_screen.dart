@@ -24,12 +24,11 @@ class BookingScreen extends StatelessWidget {
         iconTheme: const IconThemeData(
           color: Colors.black, // Change the color of the back arrow here
         ),
-        title: Text(
-          'Book ${trainer.name}',
-          style: TextStyle(
-            color: Colors.black,
-            fontWeight: FontWeight.bold,
-          ),
+        title: Text('Book ${trainer.name}',
+        style: TextStyle(
+          color: Colors.black,
+          fontWeight: FontWeight.bold,
+        ),
         ),
       ),
       body: Padding(
@@ -85,8 +84,7 @@ class BookingScreen extends StatelessWidget {
                     Navigator.pop(context);
                   },
                   style: ElevatedButton.styleFrom(
-                    backgroundColor: Colors
-                        .transparent, // Set button background color as transparent
+                    backgroundColor: Colors.transparent, // Set button background color as transparent
                     shadowColor: Colors.transparent, // Remove button shadow
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(8.0),

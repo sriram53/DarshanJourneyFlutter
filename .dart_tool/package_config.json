@@ -197,7 +197,11 @@
       "name": "flutter",
       "rootUri": "file:///C:/flutter/packages/flutter",
       "packageUri": "lib/",
+<<<<<<< HEAD
       "languageVersion": "3.2"
+=======
+      "languageVersion": "3.3"
+>>>>>>> 09ff5fccdffdf5eb500cb4d2da010cabf0dcfdf7
     },
     {
       "name": "flutter_launcher_icons",
@@ -221,7 +225,11 @@
       "name": "flutter_test",
       "rootUri": "file:///C:/flutter/packages/flutter_test",
       "packageUri": "lib/",
+<<<<<<< HEAD
       "languageVersion": "3.2"
+=======
+      "languageVersion": "3.3"
+>>>>>>> 09ff5fccdffdf5eb500cb4d2da010cabf0dcfdf7
     },
     {
       "name": "flutter_web_auth_2",
@@ -471,6 +479,7 @@
     },
     {
       "name": "leak_tracker",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/Sriram/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.1"
@@ -486,6 +495,23 @@
       "rootUri": "file:///C:/Users/Sriram/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "3.1"
+=======
+      "rootUri": "file:///C:/Users/Sriram/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_flutter_testing",
+      "rootUri": "file:///C:/Users/Sriram/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_testing",
+      "rootUri": "file:///C:/Users/Sriram/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+>>>>>>> 09ff5fccdffdf5eb500cb4d2da010cabf0dcfdf7
     },
     {
       "name": "matcher",
@@ -501,7 +527,11 @@
     },
     {
       "name": "meta",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/Sriram/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.11.0",
+=======
+      "rootUri": "file:///C:/Users/Sriram/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.12.0",
+>>>>>>> 09ff5fccdffdf5eb500cb4d2da010cabf0dcfdf7
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -729,7 +759,11 @@
     },
     {
       "name": "test_api",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/Sriram/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.6.1",
+=======
+      "rootUri": "file:///C:/Users/Sriram/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.0",
+>>>>>>> 09ff5fccdffdf5eb500cb4d2da010cabf0dcfdf7
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -813,9 +847,15 @@
     },
     {
       "name": "vm_service",
+<<<<<<< HEAD
       "rootUri": "file:///C:/Users/Sriram/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-13.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
+=======
+      "rootUri": "file:///C:/Users/Sriram/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.3"
+>>>>>>> 09ff5fccdffdf5eb500cb4d2da010cabf0dcfdf7
     },
     {
       "name": "web",
@@ -872,7 +912,16 @@
       "languageVersion": "3.3"
     }
   ],
+<<<<<<< HEAD
   "generated": "2024-05-10T07:19:04.035367Z",
   "generator": "pub",
   "generatorVersion": "3.3.3"
+=======
+  "generated": "2024-06-05T06:22:09.748156Z",
+  "generator": "pub",
+  "generatorVersion": "3.4.1",
+  "flutterRoot": "file:///C:/flutter",
+  "flutterVersion": "3.22.1",
+  "pubCache": "file:///C:/Users/Sriram/AppData/Local/Pub/Cache"
+>>>>>>> 09ff5fccdffdf5eb500cb4d2da010cabf0dcfdf7
 }
